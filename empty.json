@@ -1,11 +1,16 @@
 {
-	"version_code":12,
-	"version_name": "1.8",
+	"version_code":18,
+	"version_name": "2.21",
 	"require_update": false,
 	"disable_online": false,
 	"isOffAdmob": true,
-	"isOffFan":true,
+	"isOffFan":false,
 	"hideRate":false,
 	"data_type":0,
-	"percent_AdmobVsFan":75
+	"percent_AdmobVsFan":0, 
+    "fan_banner": "986606415084401_1001877793557263",
+    "fan_full": "986606415084401_1001880356890340",
+    "fan_full_open": "986606415084401_1001880886890287",
+    "fan_native": "986606415084401_1001885180223191" 
+
 }
